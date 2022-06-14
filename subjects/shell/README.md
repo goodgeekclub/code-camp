@@ -18,7 +18,7 @@
 example  
 
 ```
-?>cat gg
+?:$>cat gg
 goodgeek
 ```
 <hr>
