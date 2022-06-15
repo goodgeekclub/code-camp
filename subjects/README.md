@@ -3,7 +3,6 @@
 
 ## How to
 การทำแบบฝึกหัดตามรูปแบบของค่าย Mereki Geek Camp
-
 ตัวอย่าง `directories`
 ```
 .Root
