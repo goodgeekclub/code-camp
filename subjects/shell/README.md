@@ -90,7 +90,12 @@ Documents Downloads Desktop New test.txt
 ```
 
 ### Change directory
+Change you position to specific directory
+```bash
+cd <dirname>
+```
 
+**Example**
 Turn you in specific directory
 ```bash
 $ cd Documents
@@ -107,15 +112,30 @@ $ pwd
 /Users/username
 ```
 
-# Resource
+---
+
+![git-cover](../../assets/git-cover.png)
+
+## Git
+[Git] is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems)
+
+### Command
+Learn more basic command from my [gist](https://gist.github.com/viruskizz/b7bb71fe4d1a072735b1a71edd6bf71a)
+
+## Resource
 - [Linux]
 - [Linux distribution]
 - [Read More...why we use linux ?]
 - [Basic Linux Command]
-- [Presentation]
+- [Linux-Presentation]
+- [Git-Presentation]
+- [Git]
 <!-- Link -->
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [Linux distribution]: https://www.tecmint.com/linux-distro-for-power-users/
 [Read More...why we use linux ?]: https://www.linux.com/what-is-linux/
 [Basic Linux Command]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
-[presentation]: https://www.canva.com/design/DAE7mNR2Y74/klxv3I4N3dc666YUYMZ2aw/view?utm_content=DAE7mNR2Y74&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+[Linux-Presentation]: https://www.canva.com/design/DAE7mNR2Y74/klxv3I4N3dc666YUYMZ2aw/view?utm_content=DAE7mNR2Y74&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
+[Git-Presentation]: https://www.canva.com/design/DAE7Uu4OKOw/cYSd99vB6gFND0H1XHOt5A/view?utm_content=DAE7Uu4OKOw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+[Git]: https://en.wikipedia.org/wiki/Git
