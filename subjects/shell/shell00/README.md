@@ -5,7 +5,7 @@
 
 
 * Create a folder `meraki_code_camp` at the root of your home, and move inside.
-* Create a new folder `cell00` and move into it.
+* Create a new folder `Shell00` and move into it.
 * Create a new folder `ex00`. Do not put anything in it.
 * From now on, all exercise should be in the correct folder redering. Exercise 00 in the `ex00` folder, Exercise 01 in the `ex01`, etc ... you get logic.
 
@@ -13,7 +13,7 @@
 |-----------------------------------------|
 
 ## Exercise 01 : goodgeek
-Create a file called `gg` that retune 'goodgeek', followed by new line,Whenever the command cat is used on it.
+Create a file called `gg` that return 'goodgeek', followed by new line,Whenever the command cat is used on it.
 
 **Example**
 ```bash
