@@ -13,36 +13,29 @@
 |-----------------------------------------|
 
 ## Exercise 01 : goodgeek
-* Create a file called `gg` that retune 'goodgeek', followed by new line,Whenever the command cat is used on it.
+Create a file called `gg` that retune 'goodgeek', followed by new line,Whenever the command cat is used on it.
 
-example  
-
-```
-?>cat gg
+**Example**
+```bash
+$ cat gg
 goodgeek
 ```
-<hr>
 
 ## Exercise 02 : Show_ur_self
 
-* In a `Your_Name` file, place the command line that will list all files and directories in your current directory, sort by date and seperated by comma. 
+In a `Your_Name` file, place the command line that will list all files and directories in your current directory, sort by date and seperated by comma. 
 
-<hr>
 
 ## Exercise 03 : Id_Commit
 
-* In a `history` file, place the command line that will list 5 latest commits id.
-
-<hr>
+In a `history` file, place the command line that will list 5 latest commits id.
 
 ## Exercise 04 : Deleted
 
-* In a `no_az` file, place the command line that will deleted file which start with letter `a` and end with `z` in current directory.
-
-<hr>
+In a `no_az` file, place the command line that will deleted file which start with letter `a` and end with `z` in current directory.
 
 ## !! Submission and evaluation
 
-*  In the `meraki_code_camp` folder at the root of your home,create a new shell00 folder and navigate to it.
-* From now on, all exercise shoulde be in the correct folder rendering. Exercise 00 in the `ex00` folder, Exercise 01 in the `ex01` folder, etc .. you get the logic.
-* Your exercise must upload to github.
+- In the `meraki_code_camp` folder at the root of your home, create a new `shell00` folder inside `shell` folder and navigate to it.
+- From now on, all exercise shoulde be in the correct folder rendering. Exercise 00 in the `ex00` folder, Exercise 01 in the `ex01` folder, etc .. you get the logic.
+- Your exercise must upload to github.
