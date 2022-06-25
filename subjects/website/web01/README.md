@@ -9,7 +9,7 @@
 * Type your name ,screenshot and paste in ex00 folder.
 
 <p align="center">
-  <img src="../../../assets/web01/ex00.png" />
+  <img src="../../../assets/web01/exx00.png" />
 </p>
 
 <hr>
@@ -36,7 +36,7 @@ window).
 
 
 <p align="center">
-  <img src="../../../assets/web01/ex02.png" />
+  <img src="../../../assets/web01/exx02.png" />
 </p>
 
 <hr>
@@ -53,7 +53,7 @@ window).
 * Open your file in your browser. You should see :
 
 <p align="center">
-  <img src="../../../assets/web01/ex03.png"/>
+  <img src="../../../assets/web01/exx03.png"/>
 </p>
 
 <hr>
@@ -67,7 +67,7 @@ window).
 * For example:
 
 <p align="center">
-  <img src="../../../assets/web01/ex04.png" />
+  <img src="../../../assets/web01/exx04.png" />
 </p>
 
 
