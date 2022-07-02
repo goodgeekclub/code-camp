@@ -9,7 +9,9 @@
 * Type your name ,screenshot and paste in ex00 folder.
 
 <p align="center">
-  <img src="../../../assets/web01/exx00.png" />
+
+  <img src="../../../assets/web01/ex00.png" />
+
 </p>
 
 <hr>
@@ -36,7 +38,9 @@ window).
 
 
 <p align="center">
-  <img src="../../../assets/web01/exx02.png" />
+
+  <img src="../../../assets/web01/ex02.png" />
+
 </p>
 
 <hr>
@@ -53,7 +57,9 @@ window).
 * Open your file in your browser. You should see :
 
 <p align="center">
-  <img src="../../../assets/web01/exx03.png"/>
+
+  <img src="../../../assets/web01/ex03.png"/>
+
 </p>
 
 <hr>
@@ -62,12 +68,14 @@ window).
 
 * From ex02 make website responsive with tailwind library. 
 * Under each picture must have text that related to your image and align center. 
-* When you use mobile, picture and text must show in 1 column
-.
+
+=======
+* When you use mobile, picture and text must show in 1 column.
 * For example:
 
 <p align="center">
-  <img src="../../../assets/web01/exx04.png" />
+  <img src="../../../assets/web01/ex04.png" />
+
 </p>
 
 
