@@ -192,8 +192,14 @@ Area of equilateral triangle = 1558.85 sq. units
 
 Output
 ``` js
-Enter side of the equilateral triangle: 60
-Area of equilateral triangle = 1558.85 sq. units 
+Enter marks of five subjects: 70
+ 80
+ 90
+ 80
+ 80
+Total = 400
+Average = 80
+Percentage = 80.00
 ```
 
 
