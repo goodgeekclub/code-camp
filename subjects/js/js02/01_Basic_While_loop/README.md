@@ -35,7 +35,7 @@ Natural numbers from 10-1 in reverse:
 ***
 -	Write a JS program to print alphabets from a to z.
 
-**use charcode** 
+**use fromCharCode with ascii code** 
 
 Output
 ```js
