@@ -1,5 +1,6 @@
 # Javascript
 > While loop exercise
+
 <mark >Use only while loop</mark>
 
 ***
