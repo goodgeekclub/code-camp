@@ -1,6 +1,6 @@
 
 # Javascript
-> While loop exercise
+> Basic while loop exercise
 
 <mark >Use only while loop</mark>
 
@@ -166,7 +166,7 @@ Input exponent: 5
 ```
 ## !! Submission and evaluation
 
-*  In the `meraki_code_camp` folder at the root of your home,create a new `js01` folder and navigate to it.
+*  In the `meraki_code_camp` folder at the root of your home,create a new `js02` folder and navigate to it.
 * From now on, all exercise shoulde be in the correct folder rendering. Exercise 00 in the `ex00` folder, Exercise 01 in the `ex01` folder, etc .. you get the logic.
 * Your exercise must upload to github.
 
