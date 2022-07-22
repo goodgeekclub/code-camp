@@ -135,7 +135,7 @@ loss : 100
 ```
 
 ***
-## EXERCISE 07: Convert Temperature From Degree Fahrenheit To Celsius 
+## EXERCISE 07: Grade 
 ***
 -	 Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer, calculate percentage and grade according to given 
 -	conditions:
@@ -157,23 +157,15 @@ percentage = 68.00
 Grade D
 ```
 
-
-
-
-
-
-
-
-
 ***
-## EXERCISE 08: Find Power Of A Number Using Pow Function 
+## EXERCISE 08: salary and calculate gross salary of an employee
 ***
 -	Write a JS program to input two numbers from user and find their power.
 -	If basic salary is lower than 10,000, hra = 20 and da = 80.
 -	If basic salary is between 10,000 and 20,000, hra = 25 and da = 95.
--	If basic salary is more than 20,,000, hra = 30 and da = 95.
--	H.R.A = salary * hra
--	D.A = salary * da
+-	If basic salary is more than 20,000, hra = 30 and da = 95.
+-	H.R.A = salary * hra/100
+-	D.A = salary * da/100
 -	Gross = salary + H.R.A + D.A
 
 Output
